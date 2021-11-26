@@ -83,7 +83,7 @@
             // 
             // txtstop
             // 
-            this.txtstop.Location = new System.Drawing.Point(640, 43);
+            this.txtstop.Location = new System.Drawing.Point(623, 43);
             this.txtstop.Name = "txtstop";
             this.txtstop.Size = new System.Drawing.Size(75, 23);
             this.txtstop.TabIndex = 5;
